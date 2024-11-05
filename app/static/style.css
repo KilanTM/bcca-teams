@@ -1,0 +1,38 @@
+body {
+   background-color: #43000c; 
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+}
+.main-title {
+    color: #F7B538;
+    font-size: 40pt;
+}
+.lesser-titles {
+    display: flex;
+    justify-content: center;
+    color: #D8572A;
+}
+.all-links {
+    color: #e7744a;
+    text-decoration: none;
+    text-align: center;
+}
+
+.team-names {
+ color: #DB7C26 ;
+}
+.summary-text {
+  color:#eda78e;
+}
+.all-links:hover {
+    color: #dfa772 ;
+   }
+.teams-link{
+    color: #D8572A; 
+    text-decoration: none;
+}
+.teams-link:hover {
+  color: #eda78e;
+}
